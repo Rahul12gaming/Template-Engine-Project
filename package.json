@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "name": "advancedbackend",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Rahul Adhikari",
+  "license": "ISC",
+  "type": "commonjs"
+}
